@@ -24,6 +24,5 @@ public static void main(String[] args){
     hundredBike.printAll();
     twoHundred.printAll();
 }
-
+kskd
 }
-// All about inheritance 
